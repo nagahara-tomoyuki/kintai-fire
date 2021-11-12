@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/login">ログイン</router-link> |
+      <router-link to="/about">新規ログイン画面</router-link>
     </div>
     <router-view/>
   </div>
